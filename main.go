@@ -17,5 +17,5 @@ func main() {
 	fmt.Println("Enter your age?")
 	fmt.Scanln(&age)
 
-	greet(name)
+	greet(name, age)
 }
