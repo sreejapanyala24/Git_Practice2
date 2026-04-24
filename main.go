@@ -17,7 +17,7 @@ func main() {
 	fmt.Scanln(&name)
 
 	fmt.Println("Enter your age?")
-	fmt.Scanln(&age)
+	fmt.Scanln(&city)
 
 	fmt.Println("Enter your city?")
 	fmt.Scanln(&age)
